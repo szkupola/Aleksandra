@@ -19,7 +19,6 @@ public class Liczby {
         int liczbaLiczb = 0;
         int liczbaLiczbPodzielnychPrzez3 = 0;
 
-
         while(true){
             Scanner input = new Scanner(System.in);
             int liczba;
