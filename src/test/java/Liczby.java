@@ -34,22 +34,8 @@ public class Liczby {
             }
         }
 
-
-
         System.out.println("suma wszystkich liczb to: "+suma);
         System.out.println("średnia wszystkich liczb to: "+((double)suma/liczbaLiczb));
         System.out.println("Liczba liczb dodatnich podzielnych przez 3: "+liczbaLiczbPodzielnychPrzez3);
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
